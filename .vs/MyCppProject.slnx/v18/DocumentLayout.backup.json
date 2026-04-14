@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0441\u002B\u002B\\MyCppProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00846C-CAF6-4A99-86FD-AEF2648825A6}|MyCppProject\\MyCppProject.vcxproj|E:\\\u0441\u002B\u002B\\MyCppProject\\MyCppProject\\MyCppProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE00846C-CAF6-4A99-86FD-AEF2648825A6}|MyCppProject\\MyCppProject.vcxproj|solutionrelative:MyCppProject\\MyCppProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCppProject.cpp",
+              "DocumentMoniker": "E:\\\u0441\u002B\u002B\\MyCppProject\\MyCppProject\\MyCppProject.cpp",
+              "RelativeDocumentMoniker": "MyCppProject\\MyCppProject.cpp",
+              "ToolTip": "E:\\\u0441\u002B\u002B\\MyCppProject\\MyCppProject\\MyCppProject.cpp",
+              "RelativeToolTip": "MyCppProject\\MyCppProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-14T18:10:26.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
